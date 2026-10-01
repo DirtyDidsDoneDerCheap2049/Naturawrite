@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace-manifest.json",
+  "name": "naturawrite",
+  "owner": {
+    "name": "Naturawrite contributors"
+  },
+  "description": "Install the Naturawrite writing skill as a Claude plugin.",
+  "plugins": [
+    {
+      "name": "naturawrite",
+      "source": "./",
+      "description": "Edit writing for clear language, sound reasoning, and evidence-matched detail.",
+      "license": "MIT",
+      "keywords": ["editing", "prose", "writing", "copyediting"]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "naturawrite",
+  "description": "A writing skill for clear, natural prose through language, logic, and evidence checks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Naturawrite contributors"
+  },
+  "license": "MIT",
+  "keywords": ["editing", "prose", "writing", "copyediting"],
+  "skills": ["./"]
+}

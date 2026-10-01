@@ -1,0 +1,4 @@
+interface:
+  display_name: "Naturawrite · 自然风格写作"
+  short_description: "审校文字，减少 AI 腔、语病和无依据的表达"
+  default_prompt: "Use $naturawrite to write or edit this text for clear language, sound reasoning, and evidence-matched detail without inventing facts or personal experiences."
