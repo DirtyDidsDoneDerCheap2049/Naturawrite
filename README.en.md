@@ -4,8 +4,6 @@
 
 Naturawrite is a writing and editing skill for reducing AI phrasing in Chinese and English. It fixes awkward sentences, removes padding and unsupported claims, and makes the flow of an argument easier to follow.
 
-The name combines **natural** and **write**.
-
 ## Scope
 
 Use it to edit articles, reports, emails, product descriptions, and technical documentation, or to draft new text for a specified audience and purpose. Editing preserves the original genre, tone, facts, and necessary technical terms. Writing samples can guide vocabulary, syntax, and rhythm.
